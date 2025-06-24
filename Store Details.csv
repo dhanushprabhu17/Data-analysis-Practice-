@@ -1,0 +1,42 @@
+StoreID,StoreType,StoreLocation
+16,STORETYPE:CORE,Vermont; USADivision
+7,,Wyoming; USADivision
+17,,Wisconsin; USADivision
+29,,Nebraska; USADivision
+35,,Nevada; USADivision
+12,,Oklahoma; USADivision
+23,,Michigan; USADivision
+22,,Pennsylvania; USADivision
+18,,Oregon; USADivision
+15,,Colorado; USADivision
+9,,New Mexico; USADivision
+10,,Texas; USADivision
+25,,South Dakota; USADivision
+21,,Delaware; USADivision
+1,,Kansas; USADivision
+26,,Montana; USADivision
+8,,New Jersey; USADivision
+40,,New Hampshire; USADivision
+34,,Illinois; USADivision
+39,,Arkansas; USADivision
+14,,Indiana; USADivision
+2,,Maryland; USADivision
+6,,Arizona; USADivision
+32,,Iowa; USADivision
+20,,Connecticut; USADivision
+31,,Missouri; USADivision
+19,,New York; USADivision
+24,,Utah; USADivision
+27,STORETYPE:DIGITAL,USA Division; Rhode Island
+4,,USA Division; West Virginia
+28,,USA Division; California
+11,,USA Division; Louisiana
+13,,USA Division; Washington
+5,STORETYPE:LOCAL,Tennessee; USADivision
+3,,Mississippi; USADivision
+33,,Florida; USADivision
+38,,North Carolina; USADivision
+36,,Alabama; USADivision
+37,,South Carolina; USADivision
+30,,Virginia; USADivision
+99,STORETYPE:OPS,
