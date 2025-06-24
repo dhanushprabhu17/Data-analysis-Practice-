@@ -1,0 +1,50 @@
+Satellite Name,Start Date,End Date,Sensor Used,Spatial Resolution,Temporal Resolution,Spectral Resolution
+Landsat 8,11-02-2013,Active,"OLI, TIRS",15-100 m,16 days,11 bands
+Sentinel-2A,23-06-2015,Active,MSI,10-60 m,5 days,13 bands
+Terra (MODIS),18-12-1999,Active,MODIS,250-1000 m,1-2 days,36 bands
+QuickBird,18-10-2001,2015-12,QuickBird Sensor,0.61-2.44 m,1-3.5 days,4 bands + Panchro
+SPOT-6,09-09-2012,Active,NAOMI,1.5-6 m,1-3 days,4 bands + Panchro
+WorldView-3,13-08-2014,Active,"CAVIS, WV03",0.31 m,1 day,29 bands
+Envisat,01-03-2002,08-04-2012,MERIS,300 m,35 days,15 bands
+Cartosat-2,10-01-2007,Active,"PAN, LISS-IV",0.8-2.5 m,4 days,3 bands + Panchro
+RADARSAT-2,14-12-2007,Active,C-band SAR,3-100 m,24 days,Multispectral
+Gaofen-1,26-04-2013,Active,"WFV, PMS",2-16 m,4 days,4 bands + Panchro
+Aqua (MODIS),04-05-2002,Active,MODIS,250-1000 m,1-2 days,36 bands
+Landsat 7,15-04-1999,Active,ETM+,15-90 m,16 days,8 bands
+Sentinel-1A,03-04-2014,Active,C-SAR,5-40 m,12 days,3 bands
+TerraSAR-X,15-06-2007,Active,X-band SAR,1 m,11 days,1 band
+ALOS-2,24-05-2014,Active,PALSAR-2,1-10 m,14 days,4 bands + Panchro
+GeoEye-1,06-09-2008,Active,GeoEye sensor,0.41 m,3 days,4 bands + Panchro
+WorldView-2,08-10-2009,Active,WV02,0.46 m,1.1 days,8 bands + Panchro
+IKONOS,24-09-1999,31-03-2015,IKONOS sensor,0.82-3.28 m,3 days,4 bands + Panchro
+Resurs-P,25-06-2013,Active,MSU-E,5-10 m,3-5 days,6 bands
+MetOp-B,17-09-2012,Active,"IASI, AMSU-A",50 km,12 hours,5 bands
+NOAA-19,06-02-2009,Active,"AVHRR, MHS",1.1 km,12 hours,5 bands
+SMOS,02-11-2009,Active,SMOS MIRAS,1-50 km,3 days,4 bands
+Suomi NPP,28-10-2011,Active,VIIRS,375 m,1 day,22 bands
+JASON-3,17-01-2016,Active,Poseidon-3B,1.2 km,10 days,2 bands
+Landsat 9,27-09-2021,Active,"OLI-2, TIRS-2",15-100 m,16 days,11 bands
+Pleiades-1A,17-12-2011,Active,HiRI,0.5 m,2 days,5 bands
+Sentinel-5P,13-10-2017,Active,TROPOMI,7 km,1 day,1 band
+WorldView-1,18-09-2007,Active,WV01,0.5 m,1.7 days,1 band
+Cartosat-3,27-11-2019,Active,"PAN, MX",0.25-1 m,4-5 days,5 bands
+EROS-B,25-04-2006,Active,PAN,0.7 m,3 days,5 bands
+SPOT-7,30-06-2014,Active,NAOMI,1.5-6 m,1-3 days,4 bands
+TerraSAR-X,15-06-2007,Active,X-band SAR,1 m,11 days,1 band
+Ziyuan-3,09-01-2012,Active,"TLC, PAN",2-5 m,4-5 days,3 bands
+Cosmo-SkyMed,08-06-2007,Active,SAR,1 m,16 days,4 bands
+QuickSCAT,19-06-1999,21-11-2009,SeaWinds,25 km,1 day,1 band
+GOES-16,19-11-2016,Active,"ABI, GLM",0.5-2 km,10 minutes,16 bands
+GCOM-W,18-05-2012,Active,AMSR2,5-10 km,2 days,6 bands
+Oceansat-2,23-09-2009,Active,OCM-2,360 m,2 days,8 bands
+OrbView-3,26-06-2003,2011-04,OV3 sensor,1 m,3 days,4 bands
+RISAT-1,26-04-2012,Active,C-band SAR,3-50 m,24 days,5 bands
+FORMOSAT-2,21-05-2004,2016-08,RSI,2 m,1 day,4 bands
+KOMPSAT-3,12-05-2012,Active,EOC,0.7 m,1 day,4 bands + Panchro
+THEOS,01-10-2008,Active,THEOS sensor,2 m,26 days,5 bands
+Radarsat-1,04-11-1995,2013-03,SAR,3-100 m,24 days,4 bands
+Landsat 7,15-04-1999,Active,ETM+,15-90 m,16 days,8 bands
+QuickSCAT,19-06-1999,21-11-2009,SeaWinds,25 km,1 day,1 band
+WorldView-1,18-09-2007,Active,WV01,0.5 m,1.7 days,1 band
+Terra (MODIS),18-12-1999,Active,MODIS,250-1000 m,1-2 days,36 bands
+JASON-3,17-01-2016,Active,Poseidon-3B,1.2 km,10 days,2 bands
